@@ -1,0 +1,77 @@
+name: app_fitness
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Back/Shrug.png
+    - assets/Back/Lat Pulldown.png
+    - assets/Back/Cable Row.png
+    - assets/Back/Cable.png
+    - assets/Back/ShrugBIG.png
+    - assets/Back/LatpulldownBIG.png
+    - assets/Chest/Dumbbell_Fly.png
+    - assets/Chest/DumbbellChestPress.png
+    - assets/Chest/DumbbelHexPress.png
+    - assets/Chest/Dumbell_flyyBIG.png
+    - assets/Chest/DumbbellChestPressBIG.png
+    - assets/Chest/DumbbelHexPressBIG.png
+    - assets/Shoulder/FrontRaises.png
+    - assets/Shoulder/LateralRaises.png
+    - assets/Shoulder/DeltFly.png
+    - assets/Shoulder/FrontRaisesBIG.png
+    - assets/Shoulder/LateralRaisesBIG.png
+    - assets/Shoulder/DellFlyBIG.png
+    - assets/Home/LowerBoddy.png
+    - assets/Home/UpperBody.png
+    - assets/Quadriceps/BackSquat.png
+    - assets/Quadriceps/BackSquatBIG.png
+    - assets/Quadriceps/LegthExtemsion.png
+    - assets/Quadriceps/LegthExtemsionBIG.png
+    - assets/Quadriceps/LegPress.png
+    - assets/Quadriceps/LegPressBIG.png
+    - assets/HamString/Deadlif.png
+    - assets/HamString/DeadlifBIG.png
+    - assets/HamString/GoodMornings.png
+    - assets/HamString/GoodMorningsBIG.png
+    - assets/HamString/LegCurl.png
+    - assets/HamString/LegCurlBIG.png
+    - assets/Calves/Single-LegCalfRaise.png
+    - assets/Calves/Single-LegCalfRaiseBIG.png
+    - assets/Calves/SeatedCalfRaise.png
+    - assets/Calves/SeatedCalfRaiseBIG.png
+    - assets/Calves/DonkeyCalfRaise.png
+    - assets/Calves/DonkeyCalfRaiseBIG.png
+    - assets/Arm/Tricep.png
+    - assets/Arm/Bicep.png
+    - assets/Arm/Tricep/DiamondPush-up.png
+    - assets/Arm/Tricep/DiamondPush-upBIG.png
+    - assets/Arm/Tricep/Dips.png
+    - assets/Arm/Tricep/DipsBIG.png
+    - assets/Arm/Tricep/OverheadTricepExtensions.png
+    - assets/Arm/Tricep/OverheadTricepExtensionsBIG.png
+    - assets/Arm/Tricep/RopePushdown.png
+    - assets/Arm/Tricep/RopePushdownBIG.png
+    - assets/Arm/Bicep/BicepCurl.png
+    - assets/Arm/Bicep/BicepCurlBIG.png
+    - assets/Arm/Bicep/ChinUp.png
+    - assets/Arm/Bicep/ChinUpBIG.png
+    - assets/Arm/Bicep/HammerCurl.png
+    - assets/Arm/Bicep/HammerCurlBIG.png
+    - assets/Arm/Bicep/ConCurl.png
+    - assets/Arm/Bicep/ConCurlBIG.png
